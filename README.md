@@ -2,6 +2,18 @@
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
+## Deploying to Rackspace Cloud PaaS
+1.On app create provide following URL
+
+https://github.com/vikomall/node-js-sample.git
+
+2.Provide following run command
+
+npm start
+
+3.Provide user_param PORT as 80
+
+
 ## Running Locally
 
 Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
